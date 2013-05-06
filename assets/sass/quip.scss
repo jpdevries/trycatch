@@ -1,0 +1,43 @@
+.quip-add-comment input[type="text"], #quip-comment-box-qcom {
+	border:1px solid darken($shadowGrey,6%) !important;
+	@include border-radius(4px);
+	/*color:lighten($darkNavyBlue,30%);*/
+	padding-top:3px;
+}
+
+.quip-add-comment input[type="text"] {
+	max-width:240px;
+}
+
+#quip-add-comment-qcom, .quip-comment-text {
+	font-size:0.8em; 
+}
+
+#quip-comment-box-qcom {
+	padding:6px;
+	margin-bottom:12px; 
+}
+
+button {
+	padding:3px 3px 2px 2px;
+	color:#4e4f53;
+	font-size:0.86em;
+}
+
+.quip-fld {
+	padding:4px 0;
+} 
+
+.quip-comment-text p {
+	padding-top:0 !important;
+}
+
+.quip-comment-createdon a {
+	font-size:0.80em !important;
+}
+
+.quip-comment-meta {
+	br {
+		line-height:50%;
+	}
+}

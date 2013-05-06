@@ -1,0 +1,50 @@
+<markdown>
+Every month here at Try Catch a [MODX Add-on](http://rtfm.modx.com/display/ADDON/Home) of the month is announced. Any Add-on found in the [Extras Repository](http://modx.com/extras/) that has less than 1,024 downloads is eligible. 
+
+So what'll it be this time? The winner for January 2013 is [Andrew Smith](http://silentworks.co.uk/contact.html) for his [Markdown Parser Add-on](http://modx.com/extras/package/markdownparser). It could start changing how you write your blog posts! It did for me. In fact, you can view the markdown source for this article [here](http://devries.jp/assets/static/content/markdown-parser-for-modx-wins-add-on-of-the-month-(116).txt).
+&nbsp;  
+&nbsp;  
+### What is markdown?
+> Markdown is a lightweight markup language, originally created by John Gruber and Aaron Swartz, allowing people “to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)”. The language takes many cues from existing conventions for marking up plain text in email. In other words, Markdown is a text-to-HTML conversion tool (for web writers).
+<small>&#8195;Source: [Wikipedia](http://en.wikipedia.org/wiki/Markdown)</small>
+
+With [Markdown](http://daringfireball.net/projects/markdown/), <i>you don't even have to know a thing about writing HTML</i>. You just have to write your article using [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) and it turns it into valid HTML for you. Markdown Parser will parse any parts of your document within <markdown> tags into HTML.
+
+People that have started using Markdown [really seem to like it](https://twitter.com/search?q=%23markdown&src=typd), so give it a try. Even if you are an HTML writing wiz, you can probably write Markdown even faster!
+	
+<aside class="see-also also-see">
+<h6>Note:</h6>	
+	You may need to disable Rich Text for Resources using Markdown since rich text editors like TinyMCE don't support non-HTML tags such as <markdown>.
+</aside>
+&nbsp;  
+### - With the Author -
+• How long have you been using MODX and how were you introduced to it?
+> I have been using MODX for just over 4 years now, I was introduced to it by a friend of mine while working together at a Digital Agency. I started off with Evolution and quickly transitioned to Revolution when it was released.
+
+• Was there a defining moment that made you decide to start building sites with MODX?
+> I was primarily a Frontend Developer (Interface Developer) and I didn’t like the idea that most CMSes around that time would inject code into your HTML markup, when my friend introduced me to MODX I realise that it didn’t mess with your HTML markup and this was the selling
+point for me. I started using MODX to build personal sites and that evolved over the years into working on Client sites.
+
+• How do you feel about the current process for developing plugins in MODX?
+> Before I get into this, let me just say that all CMSes have their pros and cons, MODX is not short of this list. I started developing plugins in MODX Revolution because the API seemed more streamlined, I did not understand anything about how Plugins worked in MODX Evolution and documentation lacked so I did not bother to attempt creating any in Evolution.
+I think the current Plugin API is easy to understand and there is enough documentation to make the process so much easier.
+
+• When were you first introduced to Markdown and how?
+> I cannot fully remember how I started using Markdown but I think Github might be responsible for this. After going through the Markdown documentation and seeing how easy the syntax is and how distraction free it is to just write in a plain old text editor I was sold on this.
+
+• What was the process like of adding markdown parsing to MODX?
+> I was in search for a Markdown parser for MODX Revolution and realised there was none available, I however found a few for MODX Evolution. I took one of the Evolution version and made changes to around 2 or 3 things and boom it worked in Revolution. Since I had only ever developed simple websites in MODX Revolution during this time I had no experience in creating addons. I quickly did a search and found Packman, this allowed me to create a package for plugins already created inside of MODX.
+
+• Were there any particular challenges in creating this MODX addon?
+> I think the first challenge was how to package this to allow distribution, I however found Packman to be useful and this was quickly no longer a challenge.
+
+• Are there any plans to put Markdown Parser on GitHub?
+> Now that you ask, I will just have to get it up there soon. I will create a proper build for the package and add in new features I am currently using on my own website.
+
+• Have you had any interesting feature requests for Markdown Parser?
+> Actually none at all.
+
+• Is there a roadmap of future features for Markdown Parser?
+> At the moment there is none, this might change once I get the package on Github and others start to contribute.
+Please contribute to open source projects that you work with, you might think you are not that great of a developer but you can contribute designs, feature requests, documentation, reporting bugs and helping others.
+</markdown>

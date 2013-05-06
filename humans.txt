@@ -1,0 +1,29 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    John–Paul DeVries – @jpdevries
+     – Author
+     – Designer
+     – Developer
+    
+    
+    Lisa DeVries
+     – Editor
+
+# THANKS
+    
+    Nate Bedortha – @nateb
+     – CSS/HTML5 Consulting
+     
+    Robb Sturtcman – @spectralnight
+     – Design Consulting 
+    
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Software: MODX Revolution
+    Hosting: MODX Cloud

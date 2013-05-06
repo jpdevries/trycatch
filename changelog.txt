@@ -1,0 +1,11 @@
+Oct 27, 2012
+ - added Sublime Video support
+
+Oct 20, 2012
+ - fixed sidebar bugs (tags and archives don't show on non Article,ArticlesContainer pages)
+ - adjusted responsive styling
+ - added pagination links above posts for touch devices and breakpoint 480
+ - added basic changelog page
+
+Oct 10, 2012
+ - soft launch

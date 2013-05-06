@@ -1,0 +1,15 @@
+.syntaxhighlighter .toolbar {
+    background: none repeat scroll 0 0 #6CE26C !important;
+    border: medium none !important;
+    color: white !important;
+	display:none;
+}
+
+.syntaxhighlighter {
+
+	border-bottom:1px solid white;
+	border-right:1px solid white;
+	border-top:1px solid $shadowGrey;
+	border-left:1px solid $shadowGrey;
+
+} 
